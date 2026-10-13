@@ -1,3 +1,5 @@
+> **My contributions:** Spanish (Spain) localisation and simulation-completion patches with tests. [Read the contribution notes](CONTRIBUTIONS.md) for code, upstream discussions and review status. The proposals are not merged; the patches are linked separately.
+
 <div align="center">
 
 <img src="./static/image/MiroFish_logo_compressed.jpeg" alt="MiroFish Logo" width="75%"/>
